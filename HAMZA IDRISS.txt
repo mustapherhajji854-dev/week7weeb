@@ -1,0 +1,56 @@
+
+# SpendWise - Personal Finance Dashboard
+
+## Project Description
+SpendWise is a personal finance dashboard designed to help users monitor their financial activities. It displays total balance, income, expenses, monthly spending, savings goals and recent transactions.
+
+## Technologies Used
+- HTML5
+- CSS3
+- CSS Grid
+- Flexbox
+- Responsive Web Design
+- GitHub
+- Netlify
+
+## GitHub Repository Information
+Repository Name: spendwise-dashboard
+
+Repository URL:
+[Insert your GitHub repository link here]
+
+## Live Netlify Website
+[Insert your Netlify website URL here]
+
+## Deployment Process Summary
+1. Created the SpendWise project using HTML and CSS.
+2. Tested the project locally using a web browser.
+3. Created a public GitHub repository.
+4. Uploaded the project files to GitHub.
+5. Connected the GitHub repository to Netlify.
+6. Configured the publish directory.
+7. Deployed the website using Netlify.
+8. Tested the live website.
+9. Updated the project and pushed the changes to GitHub.
+10. Verified automatic deployment through Netlify.
+
+## Challenges Encountered During Deployment
+- Connecting GitHub to Netlify.
+- Configuring the correct publish directory.
+- Ensuring the website displays correctly on mobile devices.
+- Understanding automatic deployment.
+
+## Lessons Learned
+- How to create a public GitHub repository.
+- How to deploy websites using Netlify.
+- How to connect GitHub and Netlify.
+- How automatic deployment works.
+- The importance of responsive website design.
+- How to test a deployed website.
+
+## Automatic Deployment Test
+Update made: [Describe your actual update]
+
+Netlify deployment status: [Record actual result]
+
+Live website update verified: [Yes or No]
